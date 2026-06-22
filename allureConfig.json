@@ -1,0 +1,11 @@
+{
+  "allure": {
+    "directory": "allure-results",
+    "title": "Correios Automacao - Testes BDD com Reqnroll, NUnit e Selenium",
+    "links": [
+      "https://github.com/{owner}/{repo}/issues/{issue}",
+      "https://github.com/{owner}/{repo}/actions/runs/{tms}",
+      "{link}"
+    ]
+  }
+}

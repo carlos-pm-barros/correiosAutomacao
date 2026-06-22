@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","31838","Buscar CEP inexistente 80700000","","2026-06-22","passed","2026-06-22","","","",""
+"","27228","Rastrear código inválido SS987654321BR","","2026-06-22","failed","2026-06-22","","","",""
+"","26719","Buscar CEP válido 01013-001","","2026-06-22","failed","2026-06-22","","","",""
