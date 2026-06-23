@@ -258,3 +258,12 @@ git commit -m "feat: descrição"
 git push origin feature/nome-da-feature
 # Abrir Pull Request no GitHub e fazer merge após aprovação
 ```
+## Utilização de IA como apoio no projeto.
+
+### Agente: Análise de Automação de Testes
+
+> Local: .cursor/agents/agent-analise-automacao-teste.md
+
+- arquivo de saida: ANL-TEST-COMPLETE-0001.md
+
+Responsável por realizar a descoberta técnica do projeto, identificando linguagens, frameworks, padrões arquiteturais, pipelines, dependências, riscos e estratégias de testes. Atua como agente de diagnóstico e documentação, gerando insumos para arquitetura, qualidade, governança e evolução contínua da automação.
