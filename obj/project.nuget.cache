@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GAZYm7OYe0Y=",
+  "dgSpecHash": "Mjn5YSq5Ftk=",
   "success": true,
-  "projectFilePath": "/Users/carlos.barros/Downloads/CorreiosAutomacao 2/CorreiosAutomacao.csproj",
+  "projectFilePath": "/Users/carlos.barros/Desktop/TESTS/GIT/correiosAutomacao/CorreiosAutomacao.csproj",
   "expectedPackageFiles": [
     "/Users/carlos.barros/.nuget/packages/allure.net.commons/2.15.0/allure.net.commons.2.15.0.nupkg.sha512",
     "/Users/carlos.barros/.nuget/packages/allure.reqnroll/2.15.0/allure.reqnroll.2.15.0.nupkg.sha512",

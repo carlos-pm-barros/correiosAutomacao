@@ -1980,11 +1980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/carlos.barros/Downloads/CorreiosAutomacao 2/CorreiosAutomacao.csproj",
+      "projectUniqueName": "/Users/carlos.barros/Desktop/TESTS/GIT/correiosAutomacao/CorreiosAutomacao.csproj",
       "projectName": "CorreiosAutomacao",
-      "projectPath": "/Users/carlos.barros/Downloads/CorreiosAutomacao 2/CorreiosAutomacao.csproj",
+      "projectPath": "/Users/carlos.barros/Desktop/TESTS/GIT/correiosAutomacao/CorreiosAutomacao.csproj",
       "packagesPath": "/Users/carlos.barros/.nuget/packages/",
-      "outputPath": "/Users/carlos.barros/Downloads/CorreiosAutomacao 2/obj/",
+      "outputPath": "/Users/carlos.barros/Desktop/TESTS/GIT/correiosAutomacao/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/carlos.barros/.nuget/NuGet/NuGet.Config"
